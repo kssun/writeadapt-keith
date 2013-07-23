@@ -1,0 +1,5 @@
+/.awestruct/
+/.ruby-*
+/_site/
+/_tmp/
+/Gemfile.lock
